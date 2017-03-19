@@ -53,7 +53,7 @@ and use [this](https://github.com/mars/create-react-app-buildpack.git) buildpack
 
 ### Visit online example on Heroku
 
-I create a online version of this example on Heroku [https://react-music-master.herokuapp.com/](https://react-music-master.herokuapp.com/)
+I created a online version of this example on Heroku [https://react-music-master.herokuapp.com/](https://react-music-master.herokuapp.com/)
 
 ## Chanchanges compared to the original codege 
 
