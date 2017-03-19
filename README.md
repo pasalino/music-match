@@ -43,9 +43,21 @@ npm run build
 ```
 this script create a folder that contains all  necessary files to use app in production.
 
-### Online Example
+### Deploy on Heroku
 
-I create a online version of this example on Heroku
+If you want publish the example on Heroku, you use this git for that.
+
+[https://github.com/mars/create-react-app-buildpack#requires](https://github.com/mars/create-react-app-buildpack#requires)
+
+and use [this](https://github.com/mars/create-react-app-buildpack.git) buildpack for heroku.
+
+### Visit online example on Heroku
+
+I create a online version of this example on Heroku [https://react-music-master.herokuapp.com/](https://react-music-master.herokuapp.com/)
+
+## Chanchanges compared to the original codege 
+
+* The spotify api call used https instead of http, becouse heroku use only https calls
 
 ## License
 
