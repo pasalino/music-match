@@ -39,7 +39,7 @@ http://localhost:3000
 
 If you want create bundle use:
 ```javascript
-npm npm run build
+npm run build
 ```
 this script create a folder that contains all  necessary files to use app in production.
 
