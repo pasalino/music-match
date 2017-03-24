@@ -1,4 +1,4 @@
-# React Test
+# Music Master - React Test
 
 I'm creating this App for testing React.js.
 
