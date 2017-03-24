@@ -4,7 +4,7 @@ I'm creating this App for testing React.js.
 
 This app is a initial challenge of [React JS and Redux - Mastering Web Apps](https://www.udemy.com/react-js-and-redux-mastering-web-apps/learn/v4/overview) course.
 
-The App search a Misic Artist on Spotify, show his song and play it. For this, use a Spotify public API.
+The App search a Music Artist on Spotify, show his song and play it. For this, use a Spotify public API.
 
 ## Dev dependences
 
